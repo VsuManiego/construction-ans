@@ -1,0 +1,5 @@
+NOTE:
+
+This system should be run outside of the ZIP folder.
+
+=>Extract the file first.
